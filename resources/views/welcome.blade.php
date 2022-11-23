@@ -68,7 +68,8 @@
     </main>
 
     <footer class="p-3 text-center align-items-center">
-        <a href="https://lab-bb.org">lab-bb.org</a>
+        <a href="https://github.com/kzbb/cb" class="m-3" style="text-decoration: none;">GitHub</a>
+        <a href="https://lab-bb.org" class="m-3" style="text-decoration: none;">lab-bb.org</a>
     </footer>
 
     <!-- Bootstrap Bundle with Popper -->
